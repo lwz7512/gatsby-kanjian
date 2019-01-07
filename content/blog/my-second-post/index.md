@@ -1,7 +1,7 @@
 ---
 title: Online Video Playing Test!
 date: '2019-01-05'
-cover: /poster.png
+cover: /kanjian/poster.png
 video: https://media.w3.org/2010/05/sintel/trailer_hd.mp4
 ---
 

@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/kanjian`,
   siteMetadata: {
     title: `看见`,
     author: `liwenzhi`,

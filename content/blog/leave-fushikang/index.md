@@ -1,7 +1,7 @@
 ---
 title: 离开富士康
 date: '2019-01-06'
-cover: /iphone-90s-boy-cover.png
+cover: /kanjian/iphone-90s-boy-cover.png
 video: https://lwz7512-1256109222.cos.ap-shanghai.myqcloud.com/video/iphone-90s-boys.480x270.mp4
 ---
 
