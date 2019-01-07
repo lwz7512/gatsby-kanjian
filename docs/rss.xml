@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[看见]]></title><description><![CDATA[见证国人的生活状态而无力改变它]]></description><link>https://gatsby-starter-blog-demo.netlify.com/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 07 Jan 2019 01:38:10 GMT</lastBuildDate><item><title><![CDATA[离开富士康]]></title><description><![CDATA[这是来自冬呱视频的一个纪录片，发布于2018年12月11日，原标题是 。。。 点这里 在油管观看！ 中国禁售多款iphone…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//leave-fushikang/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//leave-fushikang/</guid><pubDate>Sun, 06 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;这是来自冬呱视频的一个纪录片，发布于2018年12月11日，原标题是&lt;code class=&quot;language-text&quot;&gt;iphone被禁，底层工人还好吗？90后男孩离开富士康，却因2块钱痛哭&lt;/code&gt;。。。&lt;a href=&quot;https://www.youtube.com/watch?v=9cmy_kwUNxs&quot;&gt;点这里&lt;/a&gt;在油管观看！&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;中国禁售多款iphone，看看富士康工人怎么生活？这才是社会最底层！实拍河南郑州富士康，这里的工人为了维持生活每天自愿加班，只为了换取更高的工资。在流水线上工作的他们身份不同、背景各异，却都在这里度过了短暂的“流水线”人生。。。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;正是看了这个视频我才有做这个视频博客的冲动，正好最近也看了不少类似的纪录片，干脆就辛苦点给朋友们分享下吧，多少大家都会有点收获。。。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Online Video Playing Test!]]></title><description><![CDATA[这里是测试贴，测试在线短视频播放，使用   播放器组件…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//my-second-post/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//my-second-post/</guid><pubDate>Sat, 05 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;这里是测试贴，测试在线短视频播放，使用 &lt;code class=&quot;language-text&quot;&gt;video-react&lt;/code&gt; 播放器组件…&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[朋友们好，本来打算定期做公众号语音节目的，但是，有时实在没有值得去炫耀的。。。 尤其是当你没什么成绩的时候，更加没有心情了，所以还是简单点，放点值得放的东西吧！好在墙外看油管比较容易，所以正好利用这个便利，就给大家挑些能放的视频放出来。。。。]]></description><link>https://gatsby-starter-blog-demo.netlify.com//hello-world/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//hello-world/</guid><pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;朋友们好，本来打算定期做公众号语音节目的，但是，有时实在没有值得去炫耀的。。。&lt;/p&gt;
+&lt;p&gt;尤其是当你没什么成绩的时候，更加没有心情了，所以还是简单点，放点值得放的东西吧！好在墙外看油管比较容易，所以正好利用这个便利，就给大家挑些能放的视频放出来。。。。&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ff24c3e812486cc42f898361eac96b2d/b88e2/canada-winter.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAgP/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAAB1sqhmIuE/8QAGhAAAgMBAQAAAAAAAAAAAAAAABIBAgMRE//aAAgBAQABBQL0zkag2Y0q/TtD/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/AXCI/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERIf/aAAgBAgEBPwGLa//EABcQAQADAAAAAAAAAAAAAAAAABARITH/2gAIAQEABj8CNLk//8QAHRAAAgEEAwAAAAAAAAAAAAAAAAFREWFxkSExgf/aAAgBAQABPyFTFlFVdvQ5mjkXuehglTR//9oADAMBAAIAAwAAABAv7//EABgRAAIDAAAAAAAAAAAAAAAAAAABETFh/9oACAEDAQE/EEjRgf/EABgRAAIDAAAAAAAAAAAAAAAAAAARATFR/9oACAECAQE/EINY9H//xAAcEAACAgMBAQAAAAAAAAAAAAABEQAhMUFxwdH/2gAIAQEAAT8QHFFAeCXEDfrhAS3lY75GDRkhAXbdP2f/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Canada winter yellow knife park&quot;
+        title=&quot;&quot;
+        src=&quot;/static/ff24c3e812486cc42f898361eac96b2d/f8fb9/canada-winter.jpeg&quot;
+        srcset=&quot;/static/ff24c3e812486cc42f898361eac96b2d/e8976/canada-winter.jpeg 148w,
+/static/ff24c3e812486cc42f898361eac96b2d/63df2/canada-winter.jpeg 295w,
+/static/ff24c3e812486cc42f898361eac96b2d/f8fb9/canada-winter.jpeg 590w,
+/static/ff24c3e812486cc42f898361eac96b2d/85e3d/canada-winter.jpeg 885w,
+/static/ff24c3e812486cc42f898361eac96b2d/d1924/canada-winter.jpeg 1180w,
+/static/ff24c3e812486cc42f898361eac96b2d/b88e2/canada-winter.jpeg 1440w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item></channel></rss>
