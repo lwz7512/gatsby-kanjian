@@ -8,6 +8,7 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
+    "fs-extra": "^7.0.1",
     "gatsby": "^2.0.76",
     "gatsby-image": "^2.0.22",
     "gatsby-paginate": "^1.0.16",

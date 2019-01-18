@@ -1,7 +1,15 @@
 const path = require(`path`)
-const { createFilePath } = require(`gatsby-source-filesystem`)
+const fs = require('fs-extra')
 
+const { createFilePath } = require(`gatsby-source-filesystem`)
 const createPaginatedPages = require("gatsby-paginate");
+
+// add public directory clean @2019/01/18
+exports.onPreInit = () => {
+  console.log('>>>> pre build...');
+  let folder = './public';
+  fs.emptyDirSync(folder);
+}
 
 
 exports.createPages = ({ graphql, actions }) => {
