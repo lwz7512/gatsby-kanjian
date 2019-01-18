@@ -1,0 +1,9 @@
+/* html {
+  background-color: lavenderblush;
+} */
+
+.pagination-row {
+  display: flex;
+  justify-content: space-between;
+  margin: 4em 0;
+}

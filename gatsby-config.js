@@ -4,7 +4,7 @@ module.exports = {
     title: `看见`,
     author: `liwenzhi`,
     description: `见证国人的生活状态而无力改变它`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://runbytech.github.io/kanjian/`,
     social: {
       twitter: `lwz75121`,
     },
