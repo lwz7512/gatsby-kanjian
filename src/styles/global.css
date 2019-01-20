@@ -7,3 +7,10 @@
   justify-content: space-between;
   margin: 4em 0;
 }
+
+.home-icon {
+  width: 24px;
+  height: 24px;
+  vertical-align: text-top;
+  margin-right: 10px;
+}

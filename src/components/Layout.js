@@ -46,6 +46,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
+            <img src="/kanjian/home.png" className="home-icon"/>
             {title}
           </Link>
         </h3>
