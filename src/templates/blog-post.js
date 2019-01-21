@@ -7,7 +7,7 @@ import SEO from '../components/seo'
 import { rhythm, scale } from '../utils/typography'
 
 import "video-react/dist/video-react.css"; // import css
-import { Player } from 'video-react';
+import { Player, BigPlayButton, LoadingSpinner } from 'video-react';
 
 
 class BlogPostTemplate extends React.Component {
@@ -35,8 +35,10 @@ class BlogPostTemplate extends React.Component {
         {post.frontmatter.video && 
           <Player
             poster={post.frontmatter.cover}
-            src={post.frontmatter.video}
-          />
+            src={post.frontmatter.video}>
+            <BigPlayButton position="center" />
+            <LoadingSpinner />
+          </Player>
         }
         <p></p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />

@@ -52,10 +52,10 @@ class BlogIndex extends React.Component {
 
         <div className="pagination-row">
           <div className="previousLink">
-            {hasPrev?<NavLink test={first} url={previousUrl} text="Go to Previous Page" />:false}
+            {hasPrev && <NavLink test={first} url={previousUrl} text="Go to Previous Page" />}
           </div>
           <div className="nextLink">
-            {hasNext?<NavLink test={last} url={nextUrl} text="Go to Next Page" />:false}
+            {hasNext && <NavLink test={last} url={nextUrl} text="Go to Next Page" />}
           </div>
         </div>
 
